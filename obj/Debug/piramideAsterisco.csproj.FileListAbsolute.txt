@@ -1,0 +1,7 @@
+C:\Users\Luis Felipe\source\repos\piramideAsterisco\piramideAsterisco\bin\Debug\piramideAsterisco.exe.config
+C:\Users\Luis Felipe\source\repos\piramideAsterisco\piramideAsterisco\bin\Debug\piramideAsterisco.exe
+C:\Users\Luis Felipe\source\repos\piramideAsterisco\piramideAsterisco\bin\Debug\piramideAsterisco.pdb
+C:\Users\Luis Felipe\source\repos\piramideAsterisco\piramideAsterisco\obj\Debug\piramideAsterisco.csproj.AssemblyReference.cache
+C:\Users\Luis Felipe\source\repos\piramideAsterisco\piramideAsterisco\obj\Debug\piramideAsterisco.csproj.CoreCompileInputs.cache
+C:\Users\Luis Felipe\source\repos\piramideAsterisco\piramideAsterisco\obj\Debug\piramideAsterisco.exe
+C:\Users\Luis Felipe\source\repos\piramideAsterisco\piramideAsterisco\obj\Debug\piramideAsterisco.pdb
